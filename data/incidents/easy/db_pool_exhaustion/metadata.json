@@ -1,0 +1,12 @@
+{
+  "id": "db_pool_exhaustion_01",
+  "title": "Database Connection Pool Exhaustion",
+  "difficulty": "easy",
+  "service": "payment-api",
+  "summary": "Database connections became exhausted after deployment.",
+  "tags": [
+    "database",
+    "timeouts",
+    "deployment"
+  ]
+}
